@@ -1,5 +1,6 @@
 Hi, I’m Domingo Mendívil !
 I’m interested in cyberscurity, cloud computing,  distributed systems, blockchain and any new and disruptive technology
+
 I’m currently learning Rust and I find it incredible!
 📫 You can reach me at domingo.mendivil@gmail.com or @DJMendivil
 
